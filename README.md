@@ -12,6 +12,4 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=araxis&show_icons=true&locale=en&layout=compact" alt="araxis" /></p>
-
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=araxis&show_icons=true&locale=en" alt="araxis" /></p>
