@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm meisam alifallahi</h1>
 <h3 align="center">A passionate developer from Iran</h3>
 
-<p align="left"> <a href="https://twitter.com/@araxis_maf" target="blank">
-  <img src="https://img.shields.io/twitter/follow/@araxis_maf?logo=twitter&style=for-the-badge" alt="@araxis_maf" /></a> </p>
-
 - 🌱 I’m currently learning **MAUI, Dapr**
 
 - 💬 Ask me about **C#,Blazor,Asp.net,DDD,Microservices**
