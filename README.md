@@ -1,14 +1,8 @@
 <h1 align="center">Hi 👋, I'm meisam alifallahi</h1>
 <h3 align="center">A passionate developer from Iran</h3>
 
-- 🌱 I’m currently learning **MAUI, Dapr**
-
-- 💬 Ask me about **C#,Blazor,Asp.net,DDD,Microservices**
-
 - 📫 How to reach me **meisamalifallahi@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/meisam-alifallahi](https://www.linkedin.com/in/meisam-alifallahi)
-
 - ⚡ Fun fact **I am passionate about 3D printing and Wrestling.**
 
 <h3 align="left">Connect with me:</h3>
