@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm meisam alifallahi</h1>
 <h3 align="center">A passionate developer from Iran</h3>
 
-- 📫 How to reach me **meisamalifallahi@gmail.com**
+- 📫 How to reach me **alifallahi.meisam@gmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/meisam-alifallahi](https://www.linkedin.com/in/meisam-alifallahi)
 - ⚡ Fun fact **I am passionate about 3D printing and Wrestling.**
 
